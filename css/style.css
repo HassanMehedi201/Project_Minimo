@@ -17,12 +17,12 @@
  /*header start*/
 header{
 	padding: 25px 0;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 }
 .wrapper{
 	overflow: hidden;
 	width: 90%;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	margin: 0 auto;
 }
 .logo{
